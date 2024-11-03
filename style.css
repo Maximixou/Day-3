@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+.bande1{
+    height: 300px;
+    background-color: #FCD116;
+
+}
+.bande2{
+    height: 150px;
+    background-color:#003893 ;
+    
+}
+.bande3{
+    height: 150px;
+    background-color: #CE1126;
+    
+}
+.gras{
+    font-weight: bold;
+}
